@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+*.log
+*.pid
+*.swp
+*.sock
+
+# PostgreSQL
+*.sql
+*.dump
+
+# Kafka
+*.log
+
+# Other temporary files
+*.tmp
+*.bak
+*.old
+*.orig
